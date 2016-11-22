@@ -1,0 +1,21 @@
+.ui-menu {
+	width: 240px;
+}
+
+.caja {
+	display:inline-block;
+	padding: 15px;
+	width: 150px;
+	height: 150px;
+	border: 1px solid black;
+	background: #009999;
+}
+
+#dropable {
+	display: inline-block;
+	padding: 15px;
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+	background: #DFDFDF;
+}
